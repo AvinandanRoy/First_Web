@@ -1,0 +1,18 @@
+.inner{
+    border:  2px solid green;
+    margin: 10px;
+    width: 30%;
+    padding: 10px;
+}
+
+.name_Occupation{
+    display: flex;
+}
+
+p{
+    text-align: justify;
+}
+
+h3{
+    text-align: center;
+}
