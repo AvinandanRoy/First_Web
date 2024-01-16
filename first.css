@@ -16,3 +16,12 @@ p{
 h3{
     text-align: center;
 }
+
+.my_image{
+    margin: 40px ;
+    display: flex;
+    justify-content: center;
+}
+img{
+    width: 30%;
+}
